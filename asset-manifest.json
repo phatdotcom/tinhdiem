@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tinhdiem/static/css/main.a9464ea3.chunk.css",
+    "main.js": "/tinhdiem/static/js/main.3e71804b.chunk.js",
+    "main.js.map": "/tinhdiem/static/js/main.3e71804b.chunk.js.map",
+    "runtime-main.js": "/tinhdiem/static/js/runtime-main.2abe6e17.js",
+    "runtime-main.js.map": "/tinhdiem/static/js/runtime-main.2abe6e17.js.map",
+    "static/css/2.97ca6098.chunk.css": "/tinhdiem/static/css/2.97ca6098.chunk.css",
+    "static/js/2.be9bd232.chunk.js": "/tinhdiem/static/js/2.be9bd232.chunk.js",
+    "static/js/2.be9bd232.chunk.js.map": "/tinhdiem/static/js/2.be9bd232.chunk.js.map",
+    "index.html": "/tinhdiem/index.html",
+    "precache-manifest.94f795b108feb0aa1d4103e00d7e42e1.js": "/tinhdiem/precache-manifest.94f795b108feb0aa1d4103e00d7e42e1.js",
+    "service-worker.js": "/tinhdiem/service-worker.js",
+    "static/css/2.97ca6098.chunk.css.map": "/tinhdiem/static/css/2.97ca6098.chunk.css.map",
+    "static/css/main.a9464ea3.chunk.css.map": "/tinhdiem/static/css/main.a9464ea3.chunk.css.map",
+    "static/js/2.be9bd232.chunk.js.LICENSE.txt": "/tinhdiem/static/js/2.be9bd232.chunk.js.LICENSE.txt",
+    "static/media/new.svg": "/tinhdiem/static/media/new.cc4da3a4.svg",
+    "static/media/pics2.jpg": "/tinhdiem/static/media/pics2.d8bcd736.jpg",
+    "static/media/pics3.png": "/tinhdiem/static/media/pics3.f8126a16.png",
+    "static/media/star.svg": "/tinhdiem/static/media/star.15515719.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2abe6e17.js",
+    "static/css/2.97ca6098.chunk.css",
+    "static/js/2.be9bd232.chunk.js",
+    "static/css/main.a9464ea3.chunk.css",
+    "static/js/main.3e71804b.chunk.js"
+  ]
+}
